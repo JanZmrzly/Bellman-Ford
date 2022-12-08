@@ -12,7 +12,7 @@ Program byl zlepšen na základě implementace Shortest Path Faster Algorithm, k
 
 ## Příklad výstupu
 
-![My Graph](nodes_ids.png)
+![My Graph](nodes_dist.png)
 
 ## Jednotlivé skripy
 
